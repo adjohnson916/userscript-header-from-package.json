@@ -4,7 +4,7 @@
   "description": "generate a userscript header from data found in package.json",
   "main": "index.js",
   "bin": {
-    "userscript-header-from-package": "index.js"
+    "userscript-header-from-package-json": "index.js"
   },
   "scripts": {
     "test": "cd test && lab ."
