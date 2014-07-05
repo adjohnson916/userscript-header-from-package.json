@@ -1,0 +1,10 @@
+{
+  "name": "userscript-header-from-package.json",
+  "version": "0.0.1",
+  "license": "ISC",
+  "description": "generate a userscript header from data found in package.json",
+  "userscript": {
+    "include": "http://*.lagomorph.*/*",
+    "namespace": "http://www.lagomorph.de/"
+  }
+}
