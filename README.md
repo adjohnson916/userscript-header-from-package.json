@@ -3,7 +3,7 @@
 ## Installation
 
 ``` shell
-npm install -g userscript-header-from-package
+npm install -g userscript-header-from-package.json
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ Given a package.json file with this contents
 
 ```
 
-running userscript-header-from-package.json will produce the following output on stdout
+running userscript-header-from-package-json will produce the following output on stdout
 
 ```
 // ==UserScript==
