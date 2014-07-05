@@ -1,4 +1,4 @@
-# userscript-header-from-package
+# userscript-header-from-package.json
 
 ## Installation
 
